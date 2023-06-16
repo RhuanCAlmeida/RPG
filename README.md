@@ -7,3 +7,4 @@ Cada inimigo morto, você ganha xp que no momento está em grande quantidade par
 Apertando a letra "I", você abre o inventário que já possui alguns itens de demonstração. Os mesmos podem ser somados se forem iguais, trocado de posição e largados no chão caso mantenha o mouse encima do mesmo e pressione a tecla "F". E apertando "I" novamente você fecha o inventário, onde irá ver o item dropado no chão. Pressionando a tecla F novamente irá juntar o item do chão.
 Caso pressione ESC irá pausar o jogo e pressionando novamente, irá despausar.
 Jogo criado usando a plataforma GameMakerStudio e sua própria linguagem de programação.
+Para iniciar o jogo, mantenha o mouse em cima de "Novo jogo" e pressione enter
